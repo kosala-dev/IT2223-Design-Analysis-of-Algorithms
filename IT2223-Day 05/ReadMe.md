@@ -57,7 +57,7 @@ end
 
 ## Output
 
-![Activity1](https://github.com/user-attachments/assets/6b89f598-5e3b-4bc2-af44-444257730a6c)
+![446432957-6b89f598-5e3b-4bc2-af44-444257730a6c](https://github.com/user-attachments/assets/ecb32aa0-dbca-4589-b6a4-19a156df12d7)
 
 
 # Activity_02
