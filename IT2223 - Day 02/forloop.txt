@@ -1,9 +1,0 @@
-for variable=1:15
-    disp(variable)
-end
-
-for a=1:2:10
-    disp (a)
-end
-
-
