@@ -39,6 +39,7 @@ fprintf("\nSorted Array: ");
 disp(sortedArray);
 fprintf("\nTime: %f\n", elapsedTime);
 ```
+![BubbleSort](https://github.com/user-attachments/assets/6e318a3c-727a-43e1-abcf-1132c122d518)
 
 ---
 
@@ -72,6 +73,7 @@ sortedArr = insertionSort(arr);
 fprintf("Sorted Array: ");
 disp(sortedArr);
 ```
+![InsertionSort](https://github.com/user-attachments/assets/198f7d5f-b910-4ab8-80e4-0a9dc9ff6910)
 
 ---
 
