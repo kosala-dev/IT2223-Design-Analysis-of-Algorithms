@@ -27,6 +27,7 @@ arr = [5, 2, 9, 1, 7];
 target = 9;
 idx = linear_search(arr, target);  % Output: 3
 ```
+<img width="959" alt="Linear_Search" src="https://github.com/user-attachments/assets/256d7e88-4d87-4c02-b7d6-c253d3bb7a78" />
 
 ---
 
@@ -45,7 +46,9 @@ idx = binary_search(arr, target);  % Output: 5
 > ⚠️ Make sure the input array is sorted before using `binary_search`.
 
 ---
+<img width="959" alt="Binary_Search" src="https://github.com/user-attachments/assets/18050455-05fd-4caf-99ca-d478294ad584" />
 
+---
 ## ✅ Requirements
 
 - MATLAB R2016b or later (any version supporting basic array operations)
