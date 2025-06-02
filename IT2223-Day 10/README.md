@@ -27,6 +27,7 @@ Original array:
 Sorted array:
      7    12    23    41    45    89
 ```
+![mergeSort](https://github.com/user-attachments/assets/ab14bf3d-a011-42ca-a795-057f6496d123)
 
 ---
 
@@ -47,6 +48,7 @@ Original Array:
 Sorted Array:
     12    39    45    74   100
 ```
+![quickSort](https://github.com/user-attachments/assets/c936bfb3-9701-46a8-81ff-1a97d9e0065a)
 
 ---
 
@@ -60,7 +62,13 @@ This script demonstrates basic and weighted graph creation using MATLAB's `graph
 
 ### Example Output:
 - First plot shows a simple undirected graph
+
+  ![undirectedGraph](https://github.com/user-attachments/assets/d9606e4b-d327-44e1-9b5c-022d69e9cbd1)
+
 - Second plot displays a weighted graph with edge labels
+
+  ![weightedUndirectedGraph](https://github.com/user-attachments/assets/58851235-8bba-47d6-9a98-809ef2560222)
+
 
 ---
 
