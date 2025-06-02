@@ -29,6 +29,7 @@ Compares adjacent elements and swaps them if they are in the wrong order. Repeat
 ```matlab
 sorted_array = bubble_sort(array);
 ```
+![BubbleSort](https://github.com/user-attachments/assets/1d909d06-9baf-4cc8-a843-fee5606ca3c5)
 
 ---
 
@@ -39,6 +40,7 @@ Builds the sorted list one item at a time by inserting elements into their corre
 ```matlab
 sorted_array = insertion_sort(array);
 ```
+![InsertionSort](https://github.com/user-attachments/assets/a539042d-23a3-4669-a6ee-de20b9995635)
 
 ---
 
@@ -49,6 +51,7 @@ A divide-and-conquer algorithm that recursively divides the array and merges the
 ```matlab
 sorted_array = merge_sort(array);
 ```
+![MergeSort](https://github.com/user-attachments/assets/65b4fb09-b5cd-44c6-9ff9-bc3be2c4dfd1)
 
 ---
 
@@ -59,6 +62,7 @@ Another divide-and-conquer algorithm that picks a pivot and partitions the array
 ```matlab
 sorted_array = quick_sort(array);
 ```
+![QuickSort](https://github.com/user-attachments/assets/87a21144-3de8-4d46-890c-b50b70acb8d8)
 
 ---
 
@@ -69,6 +73,7 @@ Repeatedly selects the smallest (or largest) element and places it at the beginn
 ```matlab
 sorted_array = selection_sort(array);
 ```
+<img width="959" alt="SelectionSort" src="https://github.com/user-attachments/assets/4ff2d78d-73a1-48b1-b59e-29d394a6e357" />
 
 ---
 
