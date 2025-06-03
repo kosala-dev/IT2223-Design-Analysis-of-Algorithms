@@ -46,7 +46,7 @@ idx = binary_search(arr, target);  % Output: 5
 > ⚠️ Make sure the input array is sorted before using `binary_search`.
 
 ---
-<img width="959" alt="Binary_Search" src="https://github.com/user-attachments/assets/18050455-05fd-4caf-99ca-d478294ad584" />
+<img width="959" alt="Binary_Search" src="https://github.com/user-attachments/assets/2b3b40cb-fb2a-4b06-bf85-4e08e476c0a1" />
 
 ---
 ## ✅ Requirements
