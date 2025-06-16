@@ -41,7 +41,7 @@ This repository contains MATLAB implementations of graphs
 
 `Exercise.m`
 
-<img width="959" alt="Exercise" src="https://github.com/user-attachments/assets/2e3a013c-4f79-4dda-bd81-2e26f5b66c1c" />
+<img width="959" alt="Exercise" src="https://github.com/user-attachments/assets/2231610e-e1e3-499a-a171-eaedcb757cda" />
 
 ---
 
