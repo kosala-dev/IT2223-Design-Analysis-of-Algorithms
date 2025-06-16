@@ -12,7 +12,8 @@ This repository contains MATLAB implementations of graphs
 - `AdjacencyMatrix4.m`
 - `AdjacencyMatrix5.m`
 - `AdjacencyMatrix6.m`
-- `Exercise.m` 
+- `Exercise01.m`
+- `Exercise02.m` 
 ---
 ## Expected Outputs
  `AdjacencyMatrix1.m` 
@@ -39,9 +40,17 @@ This repository contains MATLAB implementations of graphs
 
 ![Adjacency Matrix 6](https://github.com/user-attachments/assets/525fe24d-85e3-442b-acc0-c05adc49a7ad)
 
-`Exercise.m`
 
-<img width="959" alt="Exercise" src="https://github.com/user-attachments/assets/2231610e-e1e3-499a-a171-eaedcb757cda" />
+`Exercise01.m`
+
+<img width="959" alt="Exercise01" src="https://github.com/user-attachments/assets/55cdc722-8e93-4845-bc04-cbe4abd37434" />
+
+
+`Exercise02.m`
+
+![Exercise02Image1](https://github.com/user-attachments/assets/2a20fd9e-7498-437c-84c9-ec1da053acfd)
+![Exercise02Image2](https://github.com/user-attachments/assets/33b41c12-616c-4127-9781-f03d9b998e4b)
+![Exercise02Image3](https://github.com/user-attachments/assets/882e8700-5f3b-4448-b109-b88a424bf219)
 
 ---
 
